@@ -7,7 +7,7 @@ git clone https://github.com/David1107/Parcial.git
 
 # Ejecuta el comando
 
-$ Vagrant up
+$ vagrant up
 
 #### Contrato REST
 
